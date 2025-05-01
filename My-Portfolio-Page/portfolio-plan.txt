@@ -1,0 +1,16 @@
+DOCTYPE
+HTML
+HEAD: "My Portfolio Page
+BODY
+HEADER: Name and Tagline
+MAIN
+SECTION 1: "About Me" paragraph
+SECTION 2:  Skills Table
+            Includes: Profession, Skills, and Level of Proficiency
+SECTION 3: A contact form
+            Includes: Visitor's name, email, and message
+FOOTER: Copyright, Portfolio name, and my name
+MAIN
+BODY
+HTML
+
